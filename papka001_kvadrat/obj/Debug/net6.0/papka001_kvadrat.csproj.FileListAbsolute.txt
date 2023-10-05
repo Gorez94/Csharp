@@ -1,0 +1,15 @@
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\bin\Debug\net6.0\papka001_kvadrat.exe
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\bin\Debug\net6.0\papka001_kvadrat.deps.json
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\bin\Debug\net6.0\papka001_kvadrat.runtimeconfig.json
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\bin\Debug\net6.0\papka001_kvadrat.dll
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\bin\Debug\net6.0\papka001_kvadrat.pdb
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.csproj.AssemblyReference.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.AssemblyInfoInputs.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.AssemblyInfo.cs
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.dll
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\refint\papka001_kvadrat.dll
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.pdb
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\papka001_kvadrat.genruntimeconfig.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\papka001_kvadrat\obj\Debug\net6.0\ref\papka001_kvadrat.dll

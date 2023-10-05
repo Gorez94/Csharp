@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "papka001_kvadrat/1.0.0": {
+        "runtime": {
+          "papka001_kvadrat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "papka001_kvadrat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

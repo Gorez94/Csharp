@@ -1,0 +1,15 @@
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\bin\Debug\net6.0\tusk03.exe
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\bin\Debug\net6.0\tusk03.deps.json
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\bin\Debug\net6.0\tusk03.runtimeconfig.json
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\bin\Debug\net6.0\tusk03.dll
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\bin\Debug\net6.0\tusk03.pdb
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.csproj.AssemblyReference.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.AssemblyInfoInputs.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.AssemblyInfo.cs
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.csproj.CoreCompileInputs.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.dll
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\refint\tusk03.dll
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.pdb
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\tusk03.genruntimeconfig.cache
+C:\Users\gorez\OneDrive\Desktop\Papka\tusk03\obj\Debug\net6.0\ref\tusk03.dll
