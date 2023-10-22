@@ -1,4 +1,11 @@
-﻿int[] GetArray(int start, int end, int size)
+﻿/*Задача 29: Напишите программу, которая задаёт массив из 8
+ элементов и выводит их на экран.
+1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
+6, 1, 33 -> [6, 1, 33]*/
+
+
+
+int[] GetArray(int start, int end, int size)
 {
     int[] array = new int[size];
     for (int i = 0; i < size; i++)
@@ -17,7 +24,7 @@ void PrintArray(int[] arr)
         Console.ForegroundColor = ConsoleColor.Yellow;
         Thread.Sleep(200);
         System.Console.Write(arr[i]);
-        if (i < arr.Length - 1) System.Console.Write(", ");// [5, 7, 1, 4
+        if (i < arr.Length - 1) System.Console.Write(", ");
     }
     Console.ForegroundColor = ConsoleColor.Red;
     System.Console.Write("]");
