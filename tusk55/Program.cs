@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-
+﻿
 int Prompt(string massage)
 {
     System.Console.Write(massage);
